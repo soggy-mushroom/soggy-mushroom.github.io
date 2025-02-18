@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My journey into tech"
+title:  "Becoming a Developer: My journey"
 date:   2024-05-03 10:20:03 +0100
 categories: jekyll update
 ---
