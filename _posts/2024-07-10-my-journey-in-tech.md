@@ -1,12 +1,20 @@
 ---
 layout: single
-title:  "Becoming a Developer: My journey"
+title:  "From Language Teacher to Developer: My Journey into Tech"
 date:   2024-05-03 10:20:03 +0100
 categories: jekyll update
 ---
 
-Growing up, I never saw myself as a "computer person". In middle school, I would find a pretext not to participate in ICT classes. I was somewhat decent in math, but in my head programming was an obscure technical wizardry beyond all comprehension.
-Fast forward into uni, having doubts about my English and French teaching degree, I toyed with the idea of becoming a programmer when I noticed that some of the teaching tasks like grading tests could be easily automated with scripts. Teaching at school was soul-crushing, and I wanted to see results of my work rather than fighitng kids who, for most part, didn't appreciate the lessons anyway. Coincidentally, at that time I met my partner online who is passionate about and working in tech. I was about to give up from frustration, but with their support, I persevered through Python tutorials and personal projects until it all started making sense. 
-Moving to UK, I continued with my studies and enrolled in a software bootcamp, yay! After 3 months of going through web dev (HTML/CSS/JS) + more Python and MongoDB, I landed my first role in a digital agency. Initially, I's prepare json data that would be fed into React component templates, as our clients would need these pages on a regular basis. Over time, I got to build components myself, fix bugs and occasionally do animation for banners.
-First few months were exciting until I needed a new challenge and hit job-seeker platforms again. Working in a commercial startup environment was putting stress on me as well. On Cord, I found an eLife Dev position, - positive learning culture, team values and good cause for science appealed to me. 
-At first it was quite challenging. I couldn't understand how science publishing itself works, let alone the new model, so it was a steep learning curve. However, I was happy to find myself in a small team of enthusiastic and knowledgeable people. While working on enhanced preprints platform, I deepened my Typescript and React knowledge. I also got to do more testing as there was none in my old place (oh horrors!) using Jest, Playwright and Backstop JS. While I still often get confused with the codebase, I like that there's always opportunity to learn and pick up something new. Impostor Syndrome knocks on the door relentlessly, but I try and ignore it :)
+I never imagined I’d end up in tech. Back in middle school, I used to find any excuse to skip ICT classes—I just didn’t see myself as a “computer person.” While I was okay at math, programming felt like some kind of unfathomable wizardry.
+
+Fast forward to university: I was studying English and French teaching, but doubts started creeping in. I noticed that some repetitive teaching tasks—like grading—could be automated with simple scripts. That realization sparked a curiosity. Teaching was starting to feel draining. I wanted a career where I could see tangible results from my work, and frankly, I was tired of feeling like I was fighting an uphill battle in the classroom.
+
+Around that time, I met my partner online. They worked in tech and had a real passion for it. Their encouragement gave me the push I needed to explore programming seriously. It was frustrating at first—I nearly gave up more than once—but with their support, I powered through Python tutorials and personal projects. Eventually, things started to click.
+
+When I moved to the UK, I enrolled in a software bootcamp to keep building my skills. Over three months, I learned web development (HTML, CSS, JavaScript), plus more Python and MongoDB. Shortly after, I landed my first role at a digital agency. At first, I focused on preparing JSON data for React components, which were used to generate regular client pages. Over time, I got the chance to build components, squash bugs, and even animate banner ads. It was exciting… for a while. But I soon realized I was ready for a new challenge.
+
+That’s when I came across the Dev role at eLife on Cord. The positive team culture, focus on learning, and mission-driven work in science publishing really stood out to me. Admittedly, the start was tough—I had no idea how science publishing worked, let alone eLife’s innovative model. The learning curve was steep, but I was lucky to join a small, welcoming team full of passionate, knowledgeable people.
+
+Working on the enhanced preprints platform has helped me deepen my knowledge of TypeScript and React. I’ve also had the chance to get hands-on with testing tools like Jest, Playwright, and BackstopJS—something my previous role completely lacked (testing? what testing?).
+
+Even now, I don’t have all the answers. The codebase can still be confusing, and impostor syndrome likes to make regular appearances. But I’m constantly learning, and that’s what keeps me going. I’ve come a long way from skipping ICT classes—and I wouldn’t trade the journey for anything.
