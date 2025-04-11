@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Non-Violent Communication Practices in Tech: Building Better Teams Through Empathy"
-date:   2024-05-03 10:20:03 +0100
+date: 2025-04-11 10:20:03 +0100
 categories: jekyll update
 ---
 
